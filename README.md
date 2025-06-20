@@ -82,7 +82,11 @@ This will install:
 | **pillow**           | ≥ 8.0.0       | Image processing (used for PDF previews and interface icons if needed).|
 | **llama-cpp-python** | ≥ 0.2.72      | Interface to run LLaMA-based models (like Mistral 7B) locally via C++. |
 
-#### 3. Launch the Application
+### 3. Download the model
+You must create a "models" folder and download `mistral-7b-instruct-v0.1.Q4_K_M` from [here](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q4_K_M.gguf)
+Put the model inside the folder.
+
+#### 4. Launch the Application
 
 Use the command below to start the app manually:
 
@@ -236,7 +240,11 @@ Cela installera :
 | **pillow**            | ≥ 8.0.0       | Utilisé pour le traitement d’images (ex. affichage d’icônes ou d’aperçus PDF). |
 | **llama-cpp-python**  | ≥ 0.2.72      | Permet d'exécuter des modèles LLaMA localement (comme Mistral 7B).         |
 
-#### 3. Lancer l'application
+### 3. Télécharger le modèle
+Vous devez créer un dossier "models" et télécharger `mistral-7b-instruct-v0.1.Q4_K_M` depuis [ici](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q4_K_M.gguf)
+Une fois le téléchargement terminé, déplacez le modèle dans le dossier.
+
+#### 4. Lancer l'application
 
 Lancez le logiciel manuellement avec :
 
