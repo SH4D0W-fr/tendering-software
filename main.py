@@ -197,9 +197,9 @@ class AppelOffreApp(QMainWindow):
         info_message = (
             "Nom du logiciel : Analyse Appel d'Offres\n"
             "Version : 1.0.0\n"
-            "Auteur : Axel LIEBENGUTH.\n"
+            "Auteur : SH4D0W-fr\n"
             "Important : Ce logiciel utilise le modèle Mistral-7B-Instruct. Il peut faire des erreurs, pensez à vérifier les informations.\n"
-            "Contact : En cas d'erreurs trop fréquentes ou de problèmes, envoyez un mail à a.liebenguth67@gmail.com\n"
+            "Contact : En cas d'erreurs trop fréquentes ou de problèmes, faites une issue sur GitHub\n"
         )
         info_layout = QVBoxLayout()
         info_label = QLabel(info_message)
