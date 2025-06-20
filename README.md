@@ -1,4 +1,4 @@
-# SHADOW Tendring Software
+# SHADOW Tendering Software
 
 **SHADOW Tendering Software** is a basic tool designed to analyze tender documents (PDF, Word) using regular expressions and local AI model :Mistral 7B. The software extracts key information, answers specific questions, and generates a structured response — all within an intuitive graphical interface (Tkinter or PyQt).
 
