@@ -1,0 +1,164 @@
+{
+  "default_questions": {
+    "CCAP": [
+      "Le document mentionne-t-il des avances financières ou matérielles ? Si oui, lesquelles ?",
+      "Les frais liés à la mission de pilotage (OPC) sont-ils prévus dans le marché ? Où sont-ils indiqués ?",
+      "Le titulaire du marché doit-il payer des frais de dossier ?",
+      "Le marché prévoit-il la souscription d’une police unique de chantier (PUC) ?",
+      "Une assurance tous risques chantier (TRC) est-elle exigée ?",
+      "La révision des prix est-elle autorisée dans le cadre de ce marché ? Quelles sont les conditions ?",
+      "Le marché prévoit-il une actualisation des prix ? Dans quelles conditions ?",
+      "Comment les dépenses communes sont-elles réparties entre les intervenants (prorata) ?",
+      "Une charte BIM est-elle imposée par le marché ?",
+      "Quel est le taux de la retenue de garantie ? Peut-elle être remplacée par une caution bancaire ?",
+      "Quel est le délai de paiement pour les situations intermédiaires (décomptes) ?",
+      "Quel est le délai de paiement pour le solde du marché (décompte final) ?",
+      "Quel est le délai prévu pour le paiement des pénalités éventuelles ?",
+      "Quelles pénalités de retard sont prévues et comment sont-elles calculées ?",
+      "Quelle est la durée d'exécution totale du marché ?"
+    ],
+    "CCTP": [
+      "Quelles sont les spécifications techniques exigées dans le marché ?",
+      "Quels matériaux ou équipements doivent être utilisés ?",
+      "Quelles normes techniques ou réglementaires doivent être respectées ?",
+      "Le marché inclut-il des prestations intellectuelles (plans, études, diagnostics) ?",
+      "Quels sont les objectifs de performance ou de qualité à atteindre ?",
+      "Le marché autorise-t-il des variantes techniques ?",
+      "Des procédés ou méthodes spécifiques d’exécution sont-ils imposés ?",
+      "Des exigences en matière de maintenance ou d’entretien sont-elles définies ?",
+      "Des tests ou validations de prestations sont-ils requis ?",
+      "Quels sont les emplacements précis d’exécution des travaux ?",
+      "Le planning d’intervention est-il découpé en phases ?",
+      "Existe-t-il des périodes où l'intervention est interdite (nuit, week-ends) ?",
+      "Des contraintes environnementales (bruit, pollution) sont-elles précisées ?",
+      "Des équipements de sécurité spécifiques sont-ils requis pour intervenir ?"
+    ],
+    "RC": [
+      "Quelles sont les règles de consultation indiquées dans le règlement ?",
+      "Quels sont les critères utilisés pour sélectionner les offres ?",
+      "Quels sont les seuils de notation ou barèmes appliqués à chaque critère ?",
+      "Le règlement prévoit-il une pondération entre le prix et la valeur technique ?",
+      "Quels sont les motifs d'exclusion d'une offre ou d’un candidat ?",
+      "Quelle est la date limite de réception des offres ?",
+      "Une visite sur site est-elle obligatoire ou recommandée ?",
+      "Comment se déroulent les échanges de questions/réponses avec le pouvoir adjudicateur ?",
+      "Une phase de négociation est-elle prévue dans la procédure ?",
+      "Le pouvoir adjudicateur peut-il modifier ou rejeter une offre sans justification ?",
+      "Un calendrier prévisionnel d’attribution ou de démarrage des prestations est-il fourni ?"
+    ],
+    "AE": [
+      "Quel acte d'engagement est attendu du candidat ?",
+      "Quels montants financiers le candidat propose-t-il ?",
+      "Le contrat prévoit-il une reconduction automatique ou tacite ?",
+      "Quels sont les éléments qui doivent être signés et paraphés dans l’acte d’engagement ?",
+      "Quelle est la durée d'engagement du signataire de l’offre ?",
+      "Des variantes ou options sont-elles proposées dans l’offre ?",
+      "Des précisions ou modifications sont-elles apportées à l’AE ?",
+      "Le marché comprend-il une tranche conditionnelle ?",
+      "Une avance est-elle prévue à la signature du marché ?"
+    ],
+    "BPU": [
+      "Quels sont les prix unitaires inscrits dans le bordereau ?",
+      "Quelles unités de mesure sont utilisées dans le BPU ?",
+      "Les postes sont-ils ventilés entre main d'œuvre, fournitures et sous-traitance ?",
+      "Une révision des prix est-elle prévue avec une formule paramétrique ?",
+      "Comment les travaux supplémentaires sont-ils traités ?",
+      "Certains postes ne sont-ils pas chiffrés au moment de l'offre ?"
+    ],
+    "DPGF": [
+      "Quels sont les prix globaux et forfaitaires mentionnés dans le document ?",
+      "Le marché est-il divisé en tranches ou en phases ?",
+      "Comment les différents lots sont-ils organisés ou structurés ?",
+      "Des prestations supplémentaires chiffrées sont-elles mentionnées ?",
+      "Comment les quantités à exécuter sont-elles évaluées ?",
+      "Le prix est-il ventilé par poste ou par type de prestation ?",
+      "Comment le montant total de l’offre est-il calculé ?"
+    ],
+    "DCE": [
+      "Quels documents composent le dossier de consultation complet ?",
+      "Existe-t-il une version numérique officielle du DCE ?",
+      "Quels documents doivent obligatoirement être signés par le candidat ?",
+      "Des annexes sont-elles mentionnées mais non fournies ?",
+      "Des documents ont-ils été mis à jour via un additif ?",
+      "Le DCE contient-il un planning prévisionnel ?",
+      "Des engagements particuliers sont-ils exigés (charte, clauses sociales, etc.) ?"
+    ],
+    "OS": [
+      "Quels ordres de service (OS) sont mentionnés dans le marché ?",
+      "Quels délais sont associés à chaque ordre de service ?",
+      "Quels intervenants doivent signer les OS ?",
+      "Quel est le délai d’exécution à compter de la réception d’un OS ?",
+      "Le marché prévoit-il des OS spécifiques pour le démarrage ou la suspension des travaux ?",
+      "Le titulaire peut-il refuser ou contester un OS ?"
+    ],
+    "CCAG": [
+      "Quelles clauses administratives générales s’appliquent à ce marché ?",
+      "Quel CCAG de référence est utilisé (travaux, fournitures, prestations intellectuelles) ?",
+      "Quels sont les délais de paiement prévus ?",
+      "Comment les litiges sont-ils gérés selon le marché ?",
+      "Quelles sont les modalités de réception des prestations (provisoire, définitive) ?",
+      "Des obligations de confidentialité ou de propriété intellectuelle sont-elles prévues ?",
+      "Le titulaire doit-il déclarer sa sous-traitance ?",
+      "Des assurances spécifiques sont-elles imposées par le marché ?"
+    ],
+    "PPSPS": [
+      "Quelles mesures de sécurité doivent être mises en place sur le chantier ?",
+      "Quels risques spécifiques sont identifiés sur le chantier ?",
+      "Quels équipements de protection individuelle sont exigés ?",
+      "Des formations ou habilitations sont-elles obligatoires pour intervenir ?",
+      "Comment sont organisées les interventions simultanées sur le chantier ?",
+      "Qui valide le PPSPS et dans quel délai ?"
+    ],
+    "PGC": [
+      "Quelles sont les obligations en matière de coordination SPS ?",
+      "Quels intervenants doivent être coordonnés ?",
+      "Comment les différentes phases du chantier sont-elles planifiées ?",
+      "Quelles règles sont imposées pour les engins, les circulations et les zones de stockage ?"
+    ],
+    "DGD": [
+      "Quels montants définitifs ont été validés dans le DGD ?",
+      "Existe-t-il des écarts entre les montants initiaux et les montants finaux ?",
+      "Les retenues de garantie ont-elles été libérées ?",
+      "Le titulaire a-t-il formulé des réserves dans le DGD ?",
+      "Des litiges ou contestations ont-ils été recensés à la fin du marché ?"
+    ],
+    "DOE": [
+      "Quels plans d’exécution ont été remis dans le DOE ?",
+      "Un bordereau de transmission est-il inclus ?",
+      "Le DOE contient-il des certificats ou attestations obligatoires ?",
+      "Quel est le délai prévu pour remettre le DOE ?",
+      "Le DOE fait-il l’objet d’une validation ou de remarques du maître d’ouvrage ?"
+    ],
+    "PV": [
+      "Quels procès-verbaux ont été établis pendant l’exécution du marché ?",
+      "Quelles réunions ont été tenues (démarrage, réception, levée de réserves) ?",
+      "Des non-conformités ont-elles été constatées et notifiées ?",
+      "Des décisions majeures ont-elles été prises lors des réunions ?"
+    ],
+    "DC1": [
+      "Quels éléments juridiques concernant le candidat figurent dans le DC1 ?",
+      "Le candidat a-t-il déclaré ne pas faire l’objet d’interdictions de soumissionner ?",
+      "Le candidat est-il une entreprise seule ou membre d’un groupement ?",
+      "Quels engagements le signataire du DC1 prend-il ?"
+    ],
+    "DC2": [
+      "Quels moyens matériels et humains le candidat déclare-t-il ?",
+      "L’entreprise dispose-t-elle de références similaires ?",
+      "Le chiffre d’affaires des trois dernières années est-il indiqué ?",
+      "Des sous-traitants sont-ils déclarés dans le DC2 ?",
+      "La capacité technique de l’entreprise est-elle jugée suffisante ?"
+    ],
+    "ATTRI1": [
+      "À quelle date le marché a-t-il été attribué ?",
+      "Quel est le titulaire retenu pour ce marché ?",
+      "Des conditions suspensives sont-elles prévues à l’attribution ?",
+      "L’attribution porte-t-elle sur tous les lots ou sur un lot spécifique ?"
+    ],
+    "NOTI2": [
+      "À quelle date le marché a-t-il été notifié ?",
+      "Quels documents accompagnent la notification ?",
+      "Quelle est la date de début d’exécution du marché ?",
+      "Des conditions particulières sont-elles mentionnées dans la notification ?"
+    ]
+  }
+}
